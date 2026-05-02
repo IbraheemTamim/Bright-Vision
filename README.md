@@ -1,5 +1,5 @@
 # Bright-Vision
-
+![Bright Vision Logo](images/bright_vision_logo.PNG)
 ### A Smart Wearable for the Visually Impaired 🚀
 
 **Bright Vision** is a portable, prototype assistive device developed in 2023 to help visually impaired individuals navigate their environment and read text more independently. The project was presented at the **Palestine Science & Technology Fair**.
