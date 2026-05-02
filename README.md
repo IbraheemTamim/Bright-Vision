@@ -28,10 +28,10 @@ The system is built on a **Raspberry Pi 4 Model B** and utilizes a camera mounte
 * **object_detection_mode.py:** Runs the object detection models.
 
 ### 🔧 Requirements
-* Raspberry Pi 4
-* Raspberry Pi Camera Rev 1.3
-* 6x Vibration Motors
-* **Libraries:** `opencv-python`, `pytesseract`, `tensorflow`, `pygame`, `RPi.GPIO`
+* **Hardware:** Raspberry Pi 4, Raspberry Pi Camera Rev 1.3, and 6x Vibration Motors.
+* **Core Libraries:** `opencv-python`, `pytesseract`, `tflite-runtime`.
+* **Audio & Language:** `gTTS`, `pygame`, `mtranslate`, `langdetect`.
+* **System Control:** `RPi.GPIO`, `picamera`.
 
 ---
 *Developed as a contribution to assistive technology and a testament to the power of learning by building.*
